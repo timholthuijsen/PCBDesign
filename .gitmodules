@@ -1,0 +1,3 @@
+[submodule "pico-led-example/lib/KiCad-RP-Pico"]
+	path = pico-led-example/lib/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git
